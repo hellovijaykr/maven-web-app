@@ -1,12 +1,12 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
+<h1><font color='red'> Welcome to Devops Learning session using AWS . <font></h1>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
+<a href="https://docs.aws.amazon.com/">Documentation link of Amazon AWS</a>
   
-  <h2> Call Us : +91-9985396677 / +91 - 9985296677 </h2>
+  <h2> AWS Learning  </h2>
   
-  <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
+  <h3> Cloud Computing</h3>
 
 
 </body>
